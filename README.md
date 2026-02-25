@@ -46,6 +46,21 @@ A collection of custom-coded GTM templates for professional analysts. This inclu
 
 ---
 
+### Full-Stack Measurement Services
+While many analysts focus on simple tag setup, I provide a comprehensive measurement strategy that handles the entire technical lifecycle of your data.
+
+- **Enterprise GA4 and GTM Deployment:** Complete architecture and implementation of Google Analytics 4 and Tag Manager, ensuring seamless data flow across both client and server environments.
+- **Advanced Server-Side Measurement:** Building high-integrity cloud infrastructures that bypass tracking restrictions, improve attribution accuracy, and deliver cleaner signals to your marketing platforms.
+- **Cross-Platform Conversion APIs:** Full-scale implementation of Meta CAPI, Google Ads Enhanced Conversions, and TikTok API to maintain ad performance in a cookieless environment.
+- **Custom Data Pipeline Engineering:** Developing REST API and webhook integrations for sophisticated data synchronization between your CRM and measurement systems.
+- **Automated Marketing Workflows:** Streamlining conversion signals and data movement via Zapier to eliminate manual errors and ensure real-time reporting.
+- **Strategic DataLayer Architecture:** Designing bespoke event schemas and DataLayer structures tailored specifically to your business KPIs and conversion goals.
+- **Privacy-First Compliance Frameworks:** Implementation of GDPR and CCPA compliant consent management systems to protect your business and user privacy.
+- **Bespoke JavaScript Engineering:** Writing custom-coded solutions to track complex user interactions that standard tracking tools are unable to capture.
+- **Proprietary GTM Template Development:** Engineering custom Google Tag Manager templates to solve unique tracking challenges and scale measurement efficiency.
+
+---
+
 ### Specialized GTM Variable Templates
 Custom-engineered variable templates designed to automate complex tracking logic and ensure data consistency across multiple platforms.
 
@@ -79,7 +94,7 @@ I am available for technical audits, custom tracking implementations, and long-t
 **Connect with me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/sadikulshadin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadikulshadin" height="40" width="50" /></a>
-<a href="https://wa.me/8801700000000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="shadin" height="40" width="50" /></a>
+<a href="https://wa.me/8801759275998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="shadin" height="40" width="50" /></a>
 </p>
 
 <p align="center">
