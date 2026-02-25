@@ -21,13 +21,16 @@
 
 ## Core Measurement Assets
 
-### 1. Shopify & WordPress DataLayers
-Plug-and-play solutions for 100% accurate GA4 and Meta CAPI tracking. Includes automated user data hashing for Enhanced Conversions.
+### 1. [Featured Tool: Premium DataLayer Checker & GTM Injector](https://chromewebstore.google.com/detail/tracking-with-shadin-%E2%80%93-pr/likbcejokggpbmpjhmkokmippkkeckcg)
+Professional Chrome extension built to audit and debug complex DataLayer and server-side events in real-time. Includes a GTM Injector to test containers without modifying production code.
 
-### 2. Meta Pixel Helper Pro
-Professional chrome extension built to audit and debug complex DataLayer and server-side events before going live.
+### 2. Shopify Universal DataLayer
+Plug-and-play solution for Shopify stores to enable 100% accurate GA4 and Meta CAPI tracking with automated user data hashing.
 
-### 3. Enterprise GTM Templates
+### 3. GTM TagFlow Pro (WP & WooCommerce)
+Advanced DataLayer engine for WordPress. Automates GA4, Facebook CAPI, and TikTok tracking with automated GTM injection.
+
+### 4. Enterprise GTM Templates
 Custom-coded GTM templates including PII Redactors and Auto Hashers designed for professional measurement efficiency.
 
 ---
